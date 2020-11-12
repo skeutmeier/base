@@ -11,8 +11,8 @@
 			<group id="version" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10" translate="label">
 				<label>Version</label>
 				<field id="infofield" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10" translate="label" type="label">
-					<label>Info</label>
-					<comment>Check here your installed Extensions</comment>
+					<label>Base</label>
+					<comment>1.0.2</comment>
 				</field>
 			</group>
 		</section>
