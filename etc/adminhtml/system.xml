@@ -3,7 +3,7 @@
 	<system>
 		<tab id="skeutmeier" sortOrder="10" translate="label">
 			<label>SKeutmeier</label>
-		</tab>rrr
+		</tab>
 		<section id="base" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="20" translate="label">
 			<label>General Information</label>
 			<tab>skeutmeier</tab>
